@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<table style="width:50%;">
+<table width="100%">
     <tr width="100%">
         <td width="70%" align="center"><h3>Connect with me:</h3></td>
         <td width="30%" align="center"><h3>Support:</h3></td>
