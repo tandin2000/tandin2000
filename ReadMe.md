@@ -1,5 +1,5 @@
 
-![logo](https://github.com/tandin2000/tandin2000/blob/main/banner.jpg)
+![logo](https://github.com/tandin2000/tandin2000/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Tandin Wangchen</h1>
 <h3 align="center">I develop softwares, AI models and web applications</h3>
 
