@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tandin Wangchen</h1>
 <h3 align="center">I develop softwares, AI models and web applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif%3Flocale%3Des_ES&psig=AOvVaw1OGe4TqmmK54J8VB1guJWU&ust=1697457676800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDNrOOA-IEDFQAAAAAdAAAAABAo">
+<img align="right" alt="coding" width="400" src="https://github.com/tandin2000/tandin2000/blob/main/img2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tandin2000&label=Profile%20views&color=0e75b6&style=flat" alt="tandin2000" /> </p>
 
