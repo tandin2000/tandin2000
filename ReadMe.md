@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tandin Wangchen</h1>
 <h3 align="center">I develop softwares, AI models and web applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/tandin2000/tandin2000/blob/main/img2.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tandin2000&label=Profile%20views&color=0e75b6&style=flat" alt="tandin2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tandin2000" alt="tandin2000" /></a> </p>
@@ -30,4 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tan0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tan0013" /></a><a href="https://ko-fi.com/tan0013"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tan0013" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tandin2000&show_icons=true&locale=en&layout=compact" alt="tandin2000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tandin2000&show_icons=true&locale=en&layout=compact" alt="tandin2000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tandin2000&show_icons=true&locale=en" alt="tandin2000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tandin2000&" alt="tandin2000" /></p>
