@@ -1,10 +1,4 @@
-<script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/zorvjzqh.json"
-    trigger="hover"
-    stroke="light"
-    style="width:250px;height:250px">
-</lord-icon>
+
 <h1 align="center">Hi 👋, I'm Tandin Wangchen</h1>
 <h3 align="center">I develop softwares, AI models and web applications ʕ•́ᴥ•̀ʔっ</h3>
 
