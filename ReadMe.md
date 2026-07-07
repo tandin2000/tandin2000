@@ -14,7 +14,7 @@ British Columbia, Canada · *learn to learn*
 
 I design and build software, AI systems, and web applications — from science lab platforms to business products. I focus on shipping reliable, well-structured solutions across the full stack.
 
-- **Currently building:** [SmartScience](http://www.smartsciencelab.com/) · [4-Xtra](https://www.4-xtra.com/) · LMS · THMS
+- **Currently building:** [SmartScience](http://www.smartsciencelab.com/) · [4-Xtra](https://www.4-xtra.com/) · Climate Google X · AI Cron
 - **Open to:** collaboration and new opportunities
 - **Portfolio:** [tandin.me](https://tandin.me)
 
@@ -23,22 +23,6 @@ I design and build software, AI systems, and web applications — from science l
 ## Tech Stack
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,nodejs,nestjs,python,django,flask,docker,kubernetes,aws,azure,gcp,mongodb,postgres,mysql,redis,pytorch,tensorflow,flutter,java,kotlin,git,linux&perline=14)](https://skillicons.dev)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tandin2000&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=tandin2000&theme=default&hide_border=true" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tandin2000&layout=compact&theme=default&hide_border=true&langs_count=6&exclude_repo=tandin2000" alt="Top languages" />
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tandin2000&theme=minimal&hide_border=true&area=true&custom_title=Contributions" alt="Contribution graph" />
-
-</div>
 
 ---
 
@@ -66,14 +50,6 @@ UCWwebsite · mkprotaxBE · ScholarTrack · DXRbackend · DXS · chat_app_react_
 **[View all 57+ repositories →](https://github.com/tandin2000?tab=repositories)**
 
 </details>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tandin2000/tandin2000/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
