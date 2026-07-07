@@ -34,14 +34,14 @@ TypeScript · JavaScript · Python · React · Next.js · Node.js · Docker · A
 
 | | |
 | :-- | :-- |
-| **Portfolio 2026** | [View →](https://portfolio2026-coral-chi.vercel.app) · [Code →](https://github.com/tandin2000/portfolio2026) |
-| **AI Live Detector** | [Code →](https://github.com/tandin2000/AI-LIVE-DETECTOR) |
-| **KPM** | [View →](https://kpm-omega.vercel.app) · [Code →](https://github.com/tandin2000/KPM) |
-| **Dosanchu** | [View →](https://dosanchu.vercel.app) · [Code →](https://github.com/tandin2000/dosanchu) |
-| **MK ProTax** | [View →](https://mkprotax.vercel.app) · [Code →](https://github.com/tandin2000/mkprotax) |
-| **Credit Prediction** | [Code →](https://github.com/tandin2000/Credit-Prediction) |
-| **Invoice Builder** | [Code →](https://github.com/tandin2000/invoiceBuilder) |
-| **Anu Buildings** | [View →](https://anubuildings.vercel.app) · [Code →](https://github.com/tandin2000/anubuildings) |
+| **Portfolio 2026** | [View ](https://portfolio2026-coral-chi.vercel.app) · [Code ](https://github.com/tandin2000/portfolio2026) |
+| **AI Live Detector** | [Code ](https://github.com/tandin2000/AI-LIVE-DETECTOR) |
+| **KPM** | [View ](https://kpm-omega.vercel.app) · [Code ](https://github.com/tandin2000/KPM) |
+| **Dosanchu** | [View ](https://dosanchu.vercel.app) · [Code ](https://github.com/tandin2000/dosanchu) |
+| **MK ProTax** | [View ](https://mkprotax.vercel.app) · [Code ](https://github.com/tandin2000/mkprotax) |
+| **Credit Prediction** | [Code ](https://github.com/tandin2000/Credit-Prediction) |
+| **Invoice Builder** | [Code ](https://github.com/tandin2000/invoiceBuilder) |
+| **Anu Buildings** | [View ](https://anubuildings.vercel.app) · [Code ](https://github.com/tandin2000/anubuildings) |
 
 <details>
 <summary>More projects</summary>
