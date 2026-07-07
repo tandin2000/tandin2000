@@ -3,8 +3,8 @@
   <img src="./banner.jpg" alt="Banner" width="100%" />
 
   <h1>Tandin Wangchen</h1>
-  <p><strong>Full Stack Developer · AI Engineer · @ Orand</strong></p>
-  <p><em>learn to learn · Bhutan</em></p>
+  <p><strong>Full Stack Developer · AI Engineer</strong></p>
+  <p><em>learn to learn · British Columbia, Canada 🇨🇦</em></p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+software+%26+AI+products;Web+%7C+Mobile+%7C+Cloud+Native;Open+to+collaborate!)](https://git.io/typing-svg)
 
@@ -26,8 +26,7 @@
 ```yaml
 name: Tandin Wangchen
 role: Software & AI Developer
-company: Orand
-location: Bhutan 🇧🇹
+location: British Columbia, Canada 🇨🇦
 portfolio: https://tandin.me
 currently_learning: [ LLMs, Agentic AI, Cloud Architecture ]
 fun_fact: "Store data in real cloud ☁️"
@@ -106,29 +105,54 @@ I'm a developer who builds **software, AI models, and web applications** — fro
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tandin2000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tandin2000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tandin2000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=tandin2000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandin2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=tandin2000&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tandin2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=tandin2000" alt="Top Languages" />
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=tandin2000&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Stack | Links |
 | :--- | :--- | :--- |
 | **Portfolio 2026** | JavaScript | [Live](https://portfolio2026-coral-chi.vercel.app) · [Repo](https://github.com/tandin2000/portfolio2026) |
 | **AI Live Detector** | TypeScript | [Repo](https://github.com/tandin2000/AI-LIVE-DETECTOR) |
-| **KPM** | JavaScript | [Live](https://kpm-omega.vercel.app) · [Repo](https://github.com/tandin2000/KPM) |
-| **Dosanchu** | JavaScript | [Live](https://dosanchu.vercel.app) · [Repo](https://github.com/tandin2000/dosanchu) |
-| **MK ProTax** | CSS / JS | [Live](https://mkprotax.vercel.app) · [Repo](https://github.com/tandin2000/mkprotax) |
-| **Credit Prediction** | TypeScript | [Repo](https://github.com/tandin2000/Credit-Prediction) |
 | **Invoice Builder** | JavaScript | [Repo](https://github.com/tandin2000/invoiceBuilder) |
+| **Credit Prediction** | TypeScript | [Repo](https://github.com/tandin2000/Credit-Prediction) |
+| **KPM** | JavaScript | [Live](https://kpm-omega.vercel.app) · [Repo](https://github.com/tandin2000/KPM) |
+| **UCW Website** | JavaScript | [Repo](https://github.com/tandin2000/UCWwebsite) |
+| **Dosanchu** | JavaScript | [Live](https://dosanchu.vercel.app) · [Repo](https://github.com/tandin2000/dosanchu) |
+| **MK ProTax** | CSS | [Live](https://mkprotax.vercel.app) · [Repo](https://github.com/tandin2000/mkprotax) |
+| **MK ProTax BE** | JavaScript | [Repo](https://github.com/tandin2000/mkprotaxBE) |
+| **ScholarTrack** | — | [Repo](https://github.com/tandin2000/ScholarTrack) |
+| **Anu Buildings** | JavaScript | [Live](https://anubuildings.vercel.app) · [Repo](https://github.com/tandin2000/anubuildings) |
+| **DXR Backend** | JavaScript | [Repo](https://github.com/tandin2000/DXRbackend) |
+| **DXS** | SCSS | [Live](https://dxs-theta.vercel.app) · [Repo](https://github.com/tandin2000/DXS) |
+| **Chat App** | JavaScript | [Repo](https://github.com/tandin2000/chat_app_react_node_socket_io) |
+| **Thimes Projects** | JavaScript | [Repo](https://github.com/tandin2000/ThimesProjectses3) |
+| **State Management** | JavaScript | [Repo](https://github.com/tandin2000/localhostStateManagement) |
+| **Bot Msg Service** | JavaScript | [Repo](https://github.com/tandin2000/BotMsgService) |
+| **FreeMind** | TypeScript | [Live](https://codesandbox.io/p/github/tandin2000/tldraw-example-canary) · [Repo](https://github.com/tandin2000/FreeMind) |
+| **Main Portfolio** | JavaScript | [Live](https://main-portfilio-opal.vercel.app) · [Repo](https://github.com/tandin2000/MainPortfilio) |
+| **Portfolio** | TypeScript | [Live](https://portfolio-tandin2000s-projects.vercel.app) · [Repo](https://github.com/tandin2000/portfolio) |
+| **My Portfolio** | JavaScript | [Repo](https://github.com/tandin2000/myPortfilio) |
+| **BECMS** | JavaScript | [Repo](https://github.com/tandin2000/BECMS) |
+| **Arc Project** | JavaScript | [Repo](https://github.com/tandin2000/ArcProject) |
+| **Arc Project BE** | JavaScript | [Repo](https://github.com/tandin2000/ArcProjectBE) |
+| **Hash Multi Auth** | JavaScript | [Repo](https://github.com/tandin2000/hash-multi-auth-fullstack) |
+| **Age Detection** | Jupyter | [Repo](https://github.com/tandin2000/ageDetection_LowSpec) |
+| **AES Java** | Java | [Repo](https://github.com/tandin2000/AES_JAVA) |
+| **Searchbar** | JavaScript | [Repo](https://github.com/tandin2000/Searchbar) |
+| **Pinclone** | JavaScript | [Repo](https://github.com/tandin2000/pinclone) |
+| **WildLife MS** | HTML | [Repo](https://github.com/tandin2000/WildLifeMS) |
+
+<p align="center"><strong>… and a lot more → <a href="https://github.com/tandin2000?tab=repositories">View all 57+ repositories</a></strong></p>
 
 ---
 
